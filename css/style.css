@@ -1,0 +1,72 @@
+#lev {
+    text-align: center;
+    margin-top:-50px;
+}
+
+#level {
+/*    margin-left: 200px;*/
+    color: cadetblue;
+    margin-bottom: 1px;
+    margin-left: 300px;
+}
+
+#levelb {
+    padding: 13px;
+    margin: 15px 15px 15px 15px;
+}
+
+#form {
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.bg {
+    background-color: #8772ff;
+    border-bottom: .5px solid #7160d1;
+}
+
+.bg-1 {
+    background-color: #f1eeff;
+}
+
+p {
+    text-align: center;
+}
+
+.time {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.message {
+    text-align: center;
+}
+
+.btn {
+    margin: .5rem 0 3rem 0;
+    padding: 0.7rem 1rem 1rem 1rem;
+    font-size: 2rem;
+    border: 2px solid #000;
+    cursor: pointer;
+    background-color: #8772ff;
+}
+
+.btn-1 {
+    background-color: #8772ff;
+    border: 1 solid #000;
+    border-radius: .5rem;
+    margin: .5rem 0 3rem 0;
+    padding: .5rem 1rem .7rem 1rem;
+    font-size: 1rem;
+}
+.jeu {
+    border-color: #7160d1;
+}
+.jeu:hover {
+    background-color: #7160d1;
+    color: white;
+}
+
+footer {
+    margin-top: 3rem;
+}
