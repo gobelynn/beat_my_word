@@ -50,13 +50,26 @@ p {
     cursor: pointer;
     background-color: #8772ff;
 }
-
+.a-btn {
+    color: #000;
+}
+.a-btn:visited {
+    color: #000;
+}
 .btn-1 {
     background-color: #8772ff;
     border: 1 solid #000;
     border-radius: .5rem;
-    margin: .5rem 0 3rem 0;
+    margin: .5rem 0 2rem 0;
     padding: .5rem 1rem .7rem 1rem;
+    font-size: 1rem;
+}
+.btn-2 {
+    background-color: #c9c1f8;
+    border: 1 solid #000;
+    border-radius: .2rem;
+    margin: 0 0 1rem 0;
+    padding: .3rem .6rem .3rem .6rem;
     font-size: 1rem;
 }
 .jeu {
