@@ -1,4 +1,4 @@
-const RANDOM_QUOTE_API_URL = 'https://fraze.it/api/phrase/power/fr/1/no/5c3df3b4-8810-405b-ad5b-7d717f5b3ed5'
+const RANDOM_QUOTE_API_URL = 'http://api.quotable.io/random'
 const quoteDisplayElement = document.getElementById('quoteDisplay')
 const quoteInputElement = document.getElementById('quoteInput')
 const timerElement = document.getElementById('timer')
