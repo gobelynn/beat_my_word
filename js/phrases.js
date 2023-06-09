@@ -1,4 +1,4 @@
-const RANDOM_QUOTE_API_URL = 'https://fraze.it/api/phrase/fr/a1632f3d-ac6d-4b68-a08a-5044400eca0c'
+const RANDOM_QUOTE_API_URL = 'https://fraze.it/api/phrase/power/fr/1/no/5c3df3b4-8810-405b-ad5b-7d717f5b3ed5'
 const quoteDisplayElement = document.getElementById('quoteDisplay')
 const quoteInputElement = document.getElementById('quoteInput')
 const timerElement = document.getElementById('timer')
